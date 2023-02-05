@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=HELDERRRG&show_icons=true&theme=radical
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=helderrrg&theme=tokyonight" alt="helderrrg" />
 <br/>
 
