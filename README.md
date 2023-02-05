@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/helderrrg/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=helderrrg&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/helderrrg/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=HELDERRRG&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=helderrrg&theme=tokyonight" alt="helderrrg" />
 <br/>
 
