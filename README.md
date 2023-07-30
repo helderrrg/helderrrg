@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hélder Gomes!</h1>
-<h3 align="center">Improving... :hourglass_flowing_sand:...</h3>
+<h3 align="center">Improving :hourglass_flowing_sand:...</h3>
 
 
 - 🔭 I’m currently studying on **@ Universidade do Minho**
