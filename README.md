@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hélder Gomes!</h1>
-<h3 align="center">Improving :hourglass_flowing_sand:...</h3>
 
 
 - 🔭 I’m currently studying on **@ Universidade do Minho**
@@ -13,9 +12,7 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=helderrrg&theme=tokyonight" alt="helderrrg"/>
 <br/>
 
-<img align="center" width="42%">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
+
 
 <p align="center">
   <a href="" target="_blank">
