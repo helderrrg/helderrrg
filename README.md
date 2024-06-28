@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="" target="https://www.linkedin.com/in/h%C3%A9lder-gomes-7035a426a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/_heldergomes/" target="_blank">
